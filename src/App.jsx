@@ -1,12 +1,11 @@
+import Routers from './routes/Routes'
 import './App.css'
 
 function App() {
 
   return (
     <>
-      <div>
-        <h1 className="text-3xl font-bold text-sky-400">Hello World</h1>
-      </div>
+      <Routers />
     </>
   )
 }
