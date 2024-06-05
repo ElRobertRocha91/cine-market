@@ -9,7 +9,7 @@ function LandingPage() {
                     <h1 className="text-white text-5xl font-bold mb-8">CINEMARKET</h1>
                     <Link to="/home"
                         className="text-white text-2xl bg-red-600 py-2 px-2 rounded-md hover:bg-red-900 transition duration-300">
-                        INGRESAR
+                        ENTER
                     </Link>
                 </div>
             </div>
